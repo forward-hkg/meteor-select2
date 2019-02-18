@@ -10,7 +10,7 @@ Package for [Select2](http://ivaynberg.github.io/select2/)
 
 Add package
 ```
-meteor add natestrauser:select2
+meteor add akora:select2
 ```
 
 ## How to use
